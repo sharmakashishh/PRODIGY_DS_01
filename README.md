@@ -20,3 +20,6 @@ Using the World Bank population dataset, we visualize the population of selected
 3. Run the script:  
    ```bash
    python script.py
+## Output image
+
+![Output Image](output.png)
