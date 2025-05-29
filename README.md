@@ -1,2 +1,10 @@
 # PRODIGY_DS_01
-Repository for Prodigy Data Science Project 01
+
+This repository contains:
+
+- Python script `script.py`
+- Output image `output.png`
+
+## Output image
+
+![Output Image](output.png)
